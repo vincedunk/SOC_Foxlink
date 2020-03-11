@@ -1,0 +1,17 @@
+D:\C#_Programs\PLC_RS485\PLC_RS485\bin\Debug\PLC_RS485.exe.config
+D:\C#_Programs\PLC_RS485\PLC_RS485\bin\Debug\PLC_RS485.exe
+D:\C#_Programs\PLC_RS485\PLC_RS485\bin\Debug\PLC_RS485.pdb
+D:\C#_Programs\PLC_RS485\PLC_RS485\obj\Debug\PLC_RS485.Form1.resources
+D:\C#_Programs\PLC_RS485\PLC_RS485\obj\Debug\PLC_RS485.Properties.Resources.resources
+D:\C#_Programs\PLC_RS485\PLC_RS485\obj\Debug\PLC_RS485.csproj.GenerateResource.Cache
+D:\C#_Programs\PLC_RS485\PLC_RS485\obj\Debug\PLC_RS485.exe
+D:\C#_Programs\PLC_RS485\PLC_RS485\obj\Debug\PLC_RS485.pdb
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\bin\Debug\PLC_RS485.exe.config
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\bin\Debug\PLC_RS485.exe
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\bin\Debug\PLC_RS485.pdb
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.csprojResolveAssemblyReference.cache
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.Form1.resources
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.Properties.Resources.resources
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.csproj.GenerateResource.Cache
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.exe
+D:\C#_Programs\PLC_RS485_V1\PLC_RS485\obj\Debug\PLC_RS485.pdb
